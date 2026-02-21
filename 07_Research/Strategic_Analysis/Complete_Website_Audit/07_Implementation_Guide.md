@@ -1,6 +1,6 @@
 # Implementation Guide: Phase-Based Workflow
 
-**For:** Davis + Danny  
+**For:** Davis + Alex  
 **Tools:** Lovable (AI coding for structure + copy 95%), Framer (final polish 5%)  
 **Capacity:** 10-12+ hours/day working together (potentially 16 hrs combined in first few days)  
 **Approach:** Alignment call → Decide approach together → Implement → QA together  
@@ -12,12 +12,12 @@
 
 ### Key Context
 
-**Danny's Expertise:**
+**Alex's Expertise:**
 - Lovable/Framer expert (has been doing all the work with these tools)
 - Deep knowledge of both platforms
 
 **Workflow Philosophy:**
-- **Davis and Danny will decide approach together during alignment call for each phase**
+- **Davis and Alex will decide approach together during alignment call for each phase**
 - Workflow assignments (who does what) will be determined collaboratively
 - Both can use Lovable, both can test, both can implement
 - Decisions made together based on what makes sense for each task
@@ -84,7 +84,7 @@
 - Translating positioning language
 - New section content
 
-**Why Lovable for everything?** Danny can make copy AND structure changes at the same time. Faster iteration, one tool, immediate testing.
+**Why Lovable for everything?** Alex can make copy AND structure changes at the same time. Faster iteration, one tool, immediate testing.
 
 ---
 
@@ -156,7 +156,7 @@
    - Review copy consistency
    - Verify all CTAs updated
 
-**Note:** Davis and Danny will decide during alignment call how to tackle each change (together, split up, parallel work, etc.)
+**Note:** Davis and Alex will decide during alignment call how to tackle each change (together, split up, parallel work, etc.)
 
 ---
 
@@ -231,7 +231,7 @@
    - Use Prompt #12 as reference
    - Verify flow and tone
 
-**Note:** Davis and Danny will decide during alignment call how to tackle these features (work together, split tasks, parallel work, sequential, etc.)
+**Note:** Davis and Alex will decide during alignment call how to tackle these features (work together, split tasks, parallel work, sequential, etc.)
 
 ---
 
@@ -298,7 +298,7 @@
    - Founder story section
    - Any other copy polish
 
-**Note:** Davis and Danny will decide during alignment call how to tackle copy changes (work together, divide sections, parallel work, etc.)
+**Note:** Davis and Alex will decide during alignment call how to tackle copy changes (work together, divide sections, parallel work, etc.)
 
 ---
 
@@ -354,7 +354,7 @@
 - Progress indicators
 - Inline validation
 
-**Note:** Davis and Danny will decide during alignment call which features to prioritize and how to divide the work.
+**Note:** Davis and Alex will decide during alignment call which features to prioritize and how to divide the work.
 
 ---
 
@@ -462,8 +462,8 @@
 **Solution:**
 1. Re-read prompt for clarity
 2. Try more specific instructions
-3. Danny and Davis review output together, iterate
-4. Danny can code it manually if needed
+3. Alex and Davis review output together, iterate
+4. Alex can code it manually if needed
 
 ---
 
@@ -538,7 +538,7 @@
 4. Test together
 5. Move to next change
 
-**Note:** Davis and Danny decide who implements based on what makes sense for each task.
+**Note:** Davis and Alex decide who implements based on what makes sense for each task.
 
 ---
 
@@ -585,7 +585,7 @@
 ## Collaboration Checkpoints
 
 ### Start of Each Phase (Alignment Call):
-- [ ] Davis and Danny read relevant audit sections together
+- [ ] Davis and Alex read relevant audit sections together
 - [ ] Discuss what needs to be built
 - [ ] Decide approach: Who tackles what? Work together or split up?
 - [ ] Review prompts together as references
@@ -622,10 +622,10 @@
    - Sustained focus yields results
    - Number 1 priority
 
-3. **Danny's Lovable/Framer expertise**
-   - Danny has been doing all the work with these tools
-   - Danny is the expert on Lovable/Framer
-   - Both Davis and Danny can use Lovable
+3. **Alex's Lovable/Framer expertise**
+   - Alex has been doing all the work with these tools
+   - Alex is the expert on Lovable/Framer
+   - Both Davis and Alex can use Lovable
    - Workflow decided together on alignment calls
 
 4. **Constant testing**
@@ -642,4 +642,4 @@
 
 ---
 
-**The audit is complete. The phases are clear. The prompts are ready. Davis and Danny have 10-12+ hours/day to work together (potentially 16 hrs combined in first few days). Workflow will be decided during alignment calls for each phase. Transform the website from 7.4/10 to 9.0/10.**
+**The audit is complete. The phases are clear. The prompts are ready. Davis and Alex have 10-12+ hours/day to work together (potentially 16 hrs combined in first few days). Workflow will be decided during alignment calls for each phase. Transform the website from 7.4/10 to 9.0/10.**

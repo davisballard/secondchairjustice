@@ -8,7 +8,7 @@
 
 ---
 
-## Core Creative Strategy (From Danny)
+## Core Creative Strategy (From Alex)
 
 ### The Two Hypotheses We're Testing
 
@@ -22,8 +22,6 @@
 - **80%:** Within the realm of what's proven to work
 - **20%:** Novel, experimental, outside-the-box
 
-### Danny's Creative Freedom Statement
-> "The most important thing is that we're calling out our avatar... but beyond that you could be as outlandish as you want."
 
 ---
 
@@ -83,13 +81,10 @@ Structure every ad:
 
 ## NEW: Humor & Outlandish Content
 
-Danny has tested and seen high CTR on:
+High CTR formats proven in testing:
 - **Bigfoot ad** — pattern interrupt with absurdist humor
 - **Shaking video** — motion-based attention grab (900% above average CTR)
 - **AI avatars** — with unexpected/humorous scripts
-
-**Why It Works:**
-> "I think it's because I have a hot shake in there" — Danny on 900% CTR
 
 **Guidelines:**
 - Call out avatar clearly despite the humor
@@ -103,9 +98,6 @@ Danny has tested and seen high CTR on:
 
 **Creative Angle:**
 > "The villain was obviously the insurance company that's like something we can kind of talk about."
-
-**Example (from Danny's ad):**
-> "Insurance is being so toxic right now, they offered me $146 and a Dunkin' gift card, my neck literally clicked"
 
 **Execution:**
 - Position insurance as the antagonist

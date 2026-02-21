@@ -363,7 +363,7 @@ A: No. Test us in one geography first.
 - QA together (1-2 hrs)
 
 **PHASE 2: Territory Map + Social Proof (Days 3-4)**
-- Territory map design/implementation (6-8 hrs Danny)
+- Territory map design/implementation (6-8 hrs Alex)
 - Testimonial component (2 hrs)
 - Enhanced CTA styling (1 hr)
 - Copy enhancements (2-3 hrs)

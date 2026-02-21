@@ -249,7 +249,7 @@ Use Framer ONLY for:
 8. ✅ Email testimonial requests
 
 ### Day 3-4 (Sat-Sun Feb 14-15): MUST DO
-1. ✅ **Territory map** (Danny leads - THE BIG ONE)
+1. ✅ **Territory map** (Alex leads - THE BIG ONE)
 2. ✅ Testimonial card component
 3. ✅ "Why Switch?" competitive section
 4. ✅ "What Happens Next" section
@@ -260,7 +260,7 @@ Use Framer ONLY for:
 1. ⚠️ Pre-qualification quiz (if time)
 2. ⚠️ FAQ section
 3. ⚠️ Founder story
-4. ✅ Analytics setup (Danny - priority)
+4. ✅ Analytics setup (Alex - priority)
 5. ⚠️ Form optimization
 
 ---

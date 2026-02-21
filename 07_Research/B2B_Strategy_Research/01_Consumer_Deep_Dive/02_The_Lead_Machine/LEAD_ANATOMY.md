@@ -204,7 +204,7 @@ Not all leads are created equal. The delivery model — how the lead gets from t
 
 **The math:** A $1,000 live transfer that converts at 40% = $2,500 cost per signed case. A $200 form lead that converts at 10% = $2,000 cost per signed case. The form lead is cheaper per case, but the live transfer is more predictable and requires less infrastructure.
 
-**Second Chair relevance:** Danny has discussed live transfers as a future opportunity with ~$1,500 per call pricing potential (Scope_Of_Work.md). This is a logical expansion once the form lead infrastructure is mature.
+**Second Chair relevance:** Alex has discussed live transfers as a future opportunity with ~$1,500 per call pricing potential (Scope_Of_Work.md). This is a logical expansion once the form lead infrastructure is mature.
 
 **Sources:** LeadingResponse PI live transfer documentation; Mohr Marketing (mohrmktg.com); Second Chair Scope_Of_Work.md
 
@@ -666,7 +666,7 @@ Research on how many contact attempts firms should make:
 | 7-10 | Days 2-3 | Phone + SMS + email | Multiple touchpoints across channels |
 | 10+ | Days 4-7 | Reduced frequency | Some sources recommend up to 10 attempts before classifying as unresponsive (eGenerationMarketing; Legal Brand Marketing) |
 
-**The "double tap" method** (from Danny's operations playbook): Call immediately, then call again 60 seconds later while simultaneously sending an SMS. The rationale: many people have unknown callers silenced; two rapid calls plus a text signals urgency and breaks through filters.
+**The "double tap" method** (from Alex's operations playbook): Call immediately, then call again 60 seconds later while simultaneously sending an SMS. The rationale: many people have unknown callers silenced; two rapid calls plus a text signals urgency and breaks through filters.
 
 **Sources:** InsideSales Lead Response Study; Second Chair Funnel_Insights.md; eGenerationMarketing follow-up tips; Law Firm Suites infographic; LegalBrandMarketing intake guide
 
@@ -895,7 +895,7 @@ The evidence:
 | **Delivery speed** | Real-time | Real-time is standard for exclusive leads | **Meets expectations** |
 | **Screening depth** | 6-question quiz with behavioral psychology triggers (injury, fault, medical treatment, representation, timing) | Ranges from minimal (name + phone) to deep (10+ questions + phone verification) | **Good.** The behavioral flow is differentiated, but could be deeper with phone verification or secondary screening |
 | **Consumer-facing brand** | Claim Justice Now (claimjusticenow.com) | Most lead gen companies use generic or branded consumer sites | **Smart separation.** Consumer brand ≠ B2B brand. Allows Second Chair to maintain a professional B2B identity while Claim Justice Now speaks to victims |
-| **Ad channels** | Meta (primary), Google, TikTok (emerging) | Meta + Google is standard; TikTok is an emerging frontier | **Competitive.** TikTok is a real opportunity — most PI competitors are not there yet ("these people are dinosaurs" — Danny) |
+| **Ad channels** | Meta (primary), Google, TikTok (emerging) | Meta + Google is standard; TikTok is an emerging frontier | **Competitive.** TikTok is a real opportunity — most PI competitors are not there yet ("these people are dinosaurs" — Alex) |
 | **Geographic focus** | CA, CO, NV, WA (Jacoby & Meyers); NC, SC, GA, MS (Think Law, paused) | Most providers are nationwide or regional | **Focused.** State-specific allows deep knowledge of statute of limitations, bar rules, and local competitive dynamics |
 
 ### 8.2 The Revenue Math

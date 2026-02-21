@@ -95,7 +95,7 @@ This folder contains everything needed to transform the website:
 
 ## ✅ Next Action (Right Now)
 
-**Davis and Danny together:**
+**Davis and Alex together:**
 
 1. **Read these 3 docs together (30 min):**
    - `00_EXECUTIVE_SUMMARY.md` (10 min)
@@ -120,7 +120,7 @@ This folder contains everything needed to transform the website:
 
 ## 🚦 Workflow: Alignment → Decide → Implement → QA
 
-### How Davis and Danny Work Together
+### How Davis and Alex Work Together
 
 **ALIGNMENT CALL (Start of each phase):**
 - Review audit sections relevant to this phase
@@ -143,7 +143,7 @@ This folder contains everything needed to transform the website:
 - Capture any bugs
 - Plan next phase
 
-**Key Context:** Danny is Lovable/Framer expert (has been doing all the work with these tools). Workflow assignments decided collaboratively on alignment calls.
+**Key Context:** Alex is Lovable/Framer expert (has been doing all the work with these tools). Workflow assignments decided collaboratively on alignment calls.
 
 **Capacity: 10-12+ hours/day working together (potentially 16 hrs combined first few days)**
 
@@ -194,7 +194,7 @@ This folder contains everything needed to transform the website:
 
 **Territory map questions?**
 - Read `06_Consolidated_Recommendations.md` territory map section
-- Danny: Check react-simple-maps library
+- Alex: Check react-simple-maps library
 - Fallback: Static image map with Figma design
 
 **Copy questions?**
@@ -228,4 +228,4 @@ Complete Phases 1-3 (core transformation) for 2x+ conversion improvement.
 
 ---
 
-**Davis and Danny have the capacity (10-12+ hrs/day, potentially 16 hrs combined first few days). The plan is clear (phases). The tools are ready (Lovable + prompts). Workflow decided on alignment calls. Transform this website from 7.4/10 to 9.0/10. 🚀**
+**Davis and Alex have the capacity (10-12+ hrs/day, potentially 16 hrs combined first few days). The plan is clear (phases). The tools are ready (Lovable + prompts). Workflow decided on alignment calls. Transform this website from 7.4/10 to 9.0/10. 🚀**

@@ -35,7 +35,7 @@
 - [x] Place in "Geo-Exclusive" section
 
 **Impact:** +25% engagement, brand signature  
-**Tool:** Lovable Prompt #6 (Danny leads)
+**Tool:** Lovable Prompt #6 (Alex leads)
 
 ---
 
@@ -124,7 +124,7 @@
 
 ---
 
-### ⚪ Analytics Setup (Day 6 - Danny)
+### ⚪ Analytics Setup (Day 6 - Alex)
 - [ ] Event tracking for CTAs
 - [ ] Scroll depth tracking
 - [ ] Form abandonment tracking
@@ -240,7 +240,7 @@ ADD: Mission connection about fighting for people
 - [ ] Send testimonial emails
 
 **Day 3-4 (Weekend):**
-- [ ] Prompt #6 (territory map - Danny)
+- [ ] Prompt #6 (territory map - Alex)
 - [ ] Prompts #7-12 (testimonials + competitive)
 
 **Day 5-7 (Polish):**

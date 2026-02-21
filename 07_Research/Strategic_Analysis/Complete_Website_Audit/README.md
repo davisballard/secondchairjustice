@@ -44,7 +44,7 @@
 
 ## 🚀 Quick Start
 
-### If starting RIGHT NOW (Davis + Danny):
+### If starting RIGHT NOW (Davis + Alex):
 
 **30-minute prep:**
 1. Open `START_HERE.md`
@@ -150,7 +150,7 @@
 
 ## 🛠 Tools Required
 
-**Davis and Danny need:**
+**Davis and Alex need:**
 - Lovable access (for 95% of work: structure + copy)
 - Mobile devices (for testing)
 - This audit folder (for prompts and reference)
@@ -158,7 +158,7 @@
 - Multiple devices for cross-browser testing
 - Analytics platform admin access (if doing Phase 4)
 
-**Key Context:** Danny is Lovable/Framer expert (has been doing all the work with these tools). Workflow assignments decided on alignment calls.
+**Key Context:** Alex is Lovable/Framer expert (has been doing all the work with these tools). Workflow assignments decided on alignment calls.
 
 **Framer (optional):**
 - Only for final 5% polish (micro-interactions)

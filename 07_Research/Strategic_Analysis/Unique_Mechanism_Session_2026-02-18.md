@@ -1,13 +1,11 @@
 # Unique Mechanism Strategy Session
 **Date:** February 18, 2026
 **Participants:** Julian Cole (Head of Strategy), Nigel Bogle (Account Management), Ed McCabe (Senior Copywriter)
-**Trigger:** Danny Dilworth raised the concept of a "unique mechanism" — a trademarked phrase that signals Second Chair's secret sauce and differentiates it from all other legal lead gen providers.
+**Trigger:** Alex DuBelko raised the concept of a "unique mechanism" — a trademarked phrase that signals Second Chair's secret sauce and differentiates it from all other legal lead gen providers.
 
 ---
 
 ## The Brief
-
-Danny's instinct: *"There's this thing in marketing called unique mechanism where you kind of trademark a phrase. It's a way of making the consumer feel like you have some secret sauce."*
 
 Davis's direction: Tools lead as primary differentiator. Quiz funnels are the "and also." The mechanism must be something competitors genuinely can't claim.
 
@@ -179,7 +177,7 @@ Both tools capture demand before the consumer has searched for a lawyer. They're
 
 ---
 
-## STEP 6: A/B Testing Recommendation (from Danny)
+## STEP 6: A/B Testing Recommendation (from Alex)
 
 **Test 1: Homepage Headline**
 - Version A: "Geo-exclusive demand infrastructure for elite PI firms" (current)

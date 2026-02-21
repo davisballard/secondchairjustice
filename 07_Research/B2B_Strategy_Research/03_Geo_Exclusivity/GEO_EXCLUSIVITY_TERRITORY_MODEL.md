@@ -1,6 +1,6 @@
 # Geo-Exclusivity Territory Model: Per-State vs. Per-DMA vs. Per-Metro
 
-> **For:** Danny  
+> **For:** Alex  
 > **From:** Davis  
 > **Purpose:** Clarify how geo-exclusivity should be defined and priced for multi-location law firms — and align on the right commercial model before we scale outreach  
 > **Updated:** Competitive research added — see [COMPETITOR_GEO_EXCLUSIVITY_ANALYSIS.md](COMPETITOR_GEO_EXCLUSIVITY_ANALYSIS.md)
@@ -158,7 +158,7 @@ Options:
 
 **Recommended:** Option 1 with Option 3 framing. Sell them their markets, name every DMA explicitly in the contract, and offer a bundle discount for volume. Keep everything else open.
 
-**This is where we need Danny's direction.** A firm like Morgan & Morgan will push for broad national exclusivity. Our answer needs to be ready.
+**This is where we need Alex's direction.** A firm like Morgan & Morgan will push for broad national exclusivity. Our answer needs to be ready.
 
 ---
 
@@ -264,7 +264,7 @@ For firms like Jacoby who want statewide coverage:
 
 ## Who Should Be in This Conversation
 
-**Danny** — Set the Jacoby precedent, closest to how deals have been structured. His view on commercial intent is what matters most.
+**Alex** — Set the Jacoby precedent, closest to how deals have been structured. His view on commercial intent is what matters most.
 
 **Sasha** — On the frontlines of outreach and will face this question on every discovery call. Needs a crisp, one-sentence answer for what geo-exclusivity means.
 

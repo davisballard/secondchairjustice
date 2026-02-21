@@ -33,13 +33,10 @@ Static forms convert at 2-5% on cold traffic. Quiz funnels convert at 15-25%.
 
 ## Drop-Off Rate Benchmarks
 
-| Metric | Industry Target | Danny's Current | Notes |
+| Metric | Industry Target | Alex's Current | Notes |
 |--------|-----------------|-----------------|-------|
-| First step drop-off | 70-80% | 93% (improved from 98%) | Danny believes 90%+ is realistic |
+| First step drop-off | 70-80% | 93% (improved from 98%) | 90%+ is realistic for this format |
 | Quiz completion | 20-30% | Testing | Depends on funnel length |
-
-**Danny's perspective:**
-> "I don't know that I could imagine 75% of people going through something like this... it's gonna be in the 90s."
 
 The industry benchmark of 70-80% first-step drop-off may be optimistic. Focus on improving incrementally rather than hitting arbitrary targets.
 
@@ -201,9 +198,7 @@ Effective landing pages in 2025 strip away ALL distractions.
 
 ## Value-First Tools (Differentiation Strategy)
 
-> **Hypothesis:** "By providing value more to the user, I suspect I will be able to increase conversion on the landing page by 10 percent." — Danny
-
-Danny has built two value-first tools to differentiate from competitors:
+Second Chair has built two value-first tools to differentiate from competitors:
 
 ### Case Builder Pro
 

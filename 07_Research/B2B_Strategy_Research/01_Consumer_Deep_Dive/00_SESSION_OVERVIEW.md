@@ -17,7 +17,7 @@
 
 This is the first deep research session in Second Chair's B2B brand strategy program. It covers the **Consumer quadrant** of the 4Cs framework — a comprehensive immersion into the PI attorney buyer's world.
 
-Before any positioning, messaging, creative work, or go-to-market strategy can be developed for Second Chair's B2B brand, the team (Davis, Danny, Sasha) needs a foundational understanding of:
+Before any positioning, messaging, creative work, or go-to-market strategy can be developed for Second Chair's B2B brand, the team (Davis, Alex, Sasha) needs a foundational understanding of:
 
 - How the PI legal industry actually works — its structure, economics, and mechanics
 - What a "lead" actually is — its anatomy, its lifecycle, its value at every stage
@@ -42,7 +42,7 @@ This Consumer Deep Dive is **Session 01 of a multi-session research program** bu
 
 ## Why This Was Done
 
-Second Chair sells MVA leads to law firms. The founding team — Davis, Danny, and Sasha — understands the product mechanics: how leads are generated, how they're delivered, what they cost. But before this research, the team had no deep, systematic understanding of the *buyer's world*.
+Second Chair sells MVA leads to law firms. The founding team — Davis, Alex, and Sasha — understands the product mechanics: how leads are generated, how they're delivered, what they cost. But before this research, the team had no deep, systematic understanding of the *buyer's world*.
 
 That gap matters because:
 
@@ -241,4 +241,4 @@ Every document in this session is a living artifact. It should be updated as new
 
 **Document version:** 1.0
 **Date:** February 2026
-**Distribution:** Davis, Danny, Sasha, Strategy Team
+**Distribution:** Davis, Alex, Sasha, Strategy Team

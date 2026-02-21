@@ -1,6 +1,6 @@
 # Website Transformation Action Plan
 
-**For:** Davis + Danny  
+**For:** Davis + Alex  
 **Implementation Capacity:** 10-12+ hours/day working together (potentially 16 hrs combined first few days)  
 **Timeline:** Phase-based (not time-based)  
 **Goal:** Transform website from 7.4/10 to 9.0/10
@@ -9,7 +9,7 @@
 
 ## Workflow: Alignment Call → Decide Approach → Implement → QA
 
-### How Davis and Danny Work Together
+### How Davis and Alex Work Together
 
 **ALIGNMENT CALL** (Start of each phase - 1-3 hours)
 - Review audit sections for current phase together
@@ -32,7 +32,7 @@
 - Capture any issues
 - Plan next phase
 
-**Key Context:** Danny is Lovable/Framer expert (has been doing all the work with these tools). Workflow assignments will be decided collaboratively on alignment calls.
+**Key Context:** Alex is Lovable/Framer expert (has been doing all the work with these tools). Workflow assignments will be decided collaboratively on alignment calls.
 
 ---
 
@@ -52,7 +52,7 @@
 
 **Changes to Implement:**
 
-**Davis and Danny will decide on alignment call how to approach each change.**
+**Davis and Alex will decide on alignment call how to approach each change.**
 
 1. Mobile H1 scaling
    - Use Prompt #1 as reference
@@ -102,7 +102,7 @@
 
 **Features to Build:**
 
-**Davis and Danny will decide on alignment call how to tackle these features.**
+**Davis and Alex will decide on alignment call how to tackle these features.**
 
 **Territory Map (6-8 hours):**
 - Research react-simple-maps or similar library
@@ -141,7 +141,7 @@
 
 **Copy Changes to Implement:**
 
-**Davis and Danny will decide on alignment call how to tackle copy changes.**
+**Davis and Alex will decide on alignment call how to tackle copy changes.**
 
 1. Hero copy translation
    - Translate "demand infrastructure" → "You own your market"
@@ -187,7 +187,7 @@
 
 **Features to Build (if prioritized):**
 
-**Davis and Danny will decide on alignment call how to approach these features.**
+**Davis and Alex will decide on alignment call how to approach these features.**
 
 **Analytics Setup (4-6 hours if prioritized):**
 - Google Analytics 4 event tracking
@@ -265,7 +265,7 @@
 - All copy changes (headlines, body text, CTAs)
 - New sections and components
 - Mobile responsiveness
-- Everything except territory map (that's Danny's custom build)
+- Everything except territory map (that's Alex's custom build)
 
 **Workflow:**
 1. Alignment call to decide approach for each phase
@@ -275,7 +275,7 @@
 5. Iterate as needed
 6. Move to next change
 
-**Note:** Danny is the Lovable/Framer expert (has been doing all the work with these tools). Prompts in `08_Lovable_Prompts.md` are references. Workflow assignments decided on alignment calls.
+**Note:** Alex is the Lovable/Framer expert (has been doing all the work with these tools). Prompts in `08_Lovable_Prompts.md` are references. Workflow assignments decided on alignment calls.
 
 ### Secondary Tool: Framer (5% polish only)
 
@@ -426,10 +426,10 @@
 
 **Next Session:**
 - Continue where the team left off
-- Davis and Danny working together
+- Davis and Alex working together
 - 10-12+ hours available
 - Move through phases systematically
 
 ---
 
-**The audit is done. The plan is clear. The prompts are ready. Now it's about execution: Davis and Danny working together, 8-10 hours/day, moving through phases, testing constantly, iterating in real-time. Transform this website from 7.4/10 to 9.0/10. 🚀**
+**The audit is done. The plan is clear. The prompts are ready. Now it's about execution: Davis and Alex working together, 8-10 hours/day, moving through phases, testing constantly, iterating in real-time. Transform this website from 7.4/10 to 9.0/10. 🚀**

@@ -527,7 +527,7 @@ of "Apply now")
 
 ### Prompt #14: Multi-Step Application Form
 
-**Note:** This requires more complex implementation. Danny should lead this.
+**Note:** This requires more complex implementation. Alex should lead this.
 
 ```
 Convert the current single-page application form into a multi-step form with 
@@ -640,7 +640,7 @@ Design:
 
 ### Prompt: Analytics Event Tracking
 
-**Note:** Danny should implement this with Google Analytics or similar.
+**Note:** Alex should implement this with Google Analytics or similar.
 
 ```
 Add event tracking to key user interactions for conversion analysis.
