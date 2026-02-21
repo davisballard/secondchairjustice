@@ -1,0 +1,60 @@
+# Second Chair Document Naming Convention
+
+**Applies to:** All new `.md` files created anywhere inside `Agency_Simulation_Root/06_Brands/Lead_Faucet/`
+
+---
+
+## The Standard: Title_Case_With_Underscores
+
+All new documents must use Title Case with underscores as word separators.
+
+**Correct:**
+- `Brand_Positioning_Notes.md`
+- `Approved_Phrases.md`
+- `State_Bar_Quick_Ref.md`
+- `Platform_Rules.md`
+
+**Incorrect (do not use):**
+- `approved-phrases.md` (lowercase-hyphenated)
+- `brandPositioningNotes.md` (camelCase)
+- `brand positioning notes.md` (spaces)
+
+---
+
+## Date-Prefixed Files (Meeting Notes, Sessions, Audits)
+
+Format: `YYYY-MM-DD_Title_Case_With_Underscores.md`
+
+**Correct:**
+- `2026-02-18_Unique_Mechanism_Session.md`
+- `2026-02-12_Team_Call_Danny_Sasha_Davis.md`
+
+**Incorrect:**
+- `2026-02-18_Call-Prep_Max-Barry.md` (hyphens in the title portion)
+- `2026-02-18-Call-Prep.md` (hyphens separating words in title)
+
+---
+
+## Exceptions (Do Not Rename These)
+
+- **ALL_CAPS landmark files** — `BRAND_POSITIONING_CORE.md`, `SERVICE_PERSONAL_INJURY.md`, `AD_MESSAGING_FRAMEWORK.md`, etc. These are deliberate workspace-wide conventions for primary reference documents. New landmark documents should also follow ALL_CAPS if they serve the same purpose.
+- **`README.md`** — Standard folder-level convention, always left as-is.
+- **Files in `00_Archive/`** — Archived files are not renamed; they retain their original names for historical reference.
+
+---
+
+## Archive Policy
+
+Old, superseded, or unused files go in `00_Archive/` at the Second Chair root.
+
+- Do NOT reference archived files in new or active documents
+- If a document you're working in references a file now in `00_Archive/`, remove or update that reference
+- See `00_Archive/README.md` for a list of what's archived and why
+
+---
+
+## Folder Naming
+
+Folder names use the existing numbered-prefix convention: `00_Project_Hub`, `01_Identity`, etc.
+Sub-folders within follow Title_Case without numbers: `Strategic_Analysis`, `Creative_Resources`.
+State-level sub-folders use lowercase: `colorado/`, `nevada/`, `washington/` (geographic conventions).

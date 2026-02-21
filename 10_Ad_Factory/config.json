@@ -1,0 +1,53 @@
+{
+  "brand_name": "Second_Chair",
+  "display_brand_name": "Claim Justice Now",
+  "airtable": {
+    "images_table": "Image Ads",
+    "videos_table": "Video Scripts"
+  },
+  "field_mapping": {
+    "ad_title": "Ad Title",
+    "post_copy": "Post Copy",
+    "headline": "Headline",
+    "description": "Description",
+    "cta": "CTA",
+    "display_link": "Display Link",
+    "image_prompt": "IMG_Prompts",
+    "strategy": "Strategy",
+    "state": "State",
+    "client": "Client",
+    "channel": "Channel",
+    "aspect_ratio_field": "Aspect Ratio",
+    "img_1": "IMG",
+    "img_2": "IMG 2",
+    "img_3": "IMG 3",
+    "social_mockup": "Social Mockup"
+  },
+  "video_field_mapping": {
+    "video_format": "Video_Format",
+    "clip1_image": "Clip1_Image",
+    "clip1_video": "Clip1_Video",
+    "clip2_image": "Clip2_Image",
+    "clip2_video": "Clip2_Video",
+    "clip3_image": "Clip3_Image",
+    "clip3_video": "Clip3_Video",
+    "voiceover_script": "Voiceover_Script",
+    "voiceover_audio": "Voiceover_Audio",
+    "background_music": "Background_Music",
+    "final_video": "Final_Video"
+  },
+  "defaults": {
+    "variations": 1,
+    "aspect_ratio": "4:5"
+  },
+  "clients": {},
+  "research_paths": [
+    "07_Research/Creative_Resources/Hooks_And_Angles.md",
+    "07_Research/Strategic_Insights/Visual_Insights.md",
+    "07_Research/Strategic_Insights/Content_Strategy.md",
+    "07_Research/Strategic_Insights/Funnel_Insights.md",
+    "10_Ad_Factory/AI_IMAGE_GUIDELINES.md",
+    "10_Ad_Factory/IMAGE_STYLE_GUIDE.md"
+  ],
+  "compliance_ref": "../05_Dept_Compliance/Saul.md"
+}
