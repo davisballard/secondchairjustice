@@ -88,18 +88,20 @@ This is the master framework that organizes ALL content creation around behavior
 
 | I need to... | Start here |
 |--------------|------------|
-| **Create any new content** | `Strategic_Analysis/BEHAVIORAL_CONTENT_SYSTEM.md` |
-| **Understand audience psychology & ad-ready insights** | `Strategic_Insights/Audience_Psychology_Insights.md` |
-| **Get free traffic from AI search (ChatGPT, Perplexity, Google AI)** | `Strategic_Analysis/AI_SEO_Geo_Strategy.md` |
+| **Create any new content** | `03_Strategic_Analysis/Behavioral_Content_System.md` |
+| **Understand audience psychology & ad-ready insights** | `05_Strategic_Insights/Audience_Psychology_Insights.md` |
+| **Get free traffic from AI search (ChatGPT, Perplexity, Google AI)** | `03_Strategic_Analysis/AI_SEO_Geo_Strategy.md` |
 | **Develop performance creative strategy** | `@Indigo_Sato` — `04_Dept_Growth_Distribution/Indigo_Sato_(Performance_Creative)/AGENT.md` |
 | **Test and iterate creative systematically** | `04_Dept_Growth_Distribution/Indigo_Sato_(Performance_Creative)/Creative_Testing_Framework.md` |
-| Understand the market landscape | `Strategic_Insights/Content_Strategy.md` |
-| Write ad copy or landing pages | `Strategic_Insights/Copy_Insights.md` |
-| Create visuals or video | `Strategic_Insights/Visual_Insights.md` |
-| Plan channel strategy | `Strategic_Insights/Channel_Playbooks.md` |
-| Brainstorm new campaign concepts | `Creative_Resources/Hooks_And_Angles.md` |
-| Build landing pages or funnels | `Strategic_Insights/Funnel_Insights.md` |
-| Find video hook templates | `Creative_Resources/Video_Hook_Templates.md` |
+| Understand the market landscape | `05_Strategic_Insights/Content_Strategy.md` |
+| Write ad copy or landing pages | `05_Strategic_Insights/Copy_Insights.md` |
+| Create visuals or video | `05_Strategic_Insights/Visual_Insights.md` |
+| Plan channel strategy | `05_Strategic_Insights/Channel_Playbooks.md` |
+| Brainstorm new campaign concepts | `07_Creative_Resources/Hooks_And_Angles.md` |
+| Build landing pages or funnels | `05_Strategic_Insights/Funnel_Insights.md` |
+| Find video hook templates | `07_Creative_Resources/Video_Hook_Templates.md` |
+| **Build the brand visual identity** | `04_Visual_Research/00_Index.md` — start here |
+| **Cross-check against Lead Faucet** | `06_Audits_And_Analysis/Competitor_Reference/Lead_Faucet_Language_Audit/07_Do_Not_Replicate.md` |
 | Choose high-converting colors | `Creative_Resources/Color_Weapons.md` |
 | Pick fonts and text overlay styles | `Creative_Resources/Typography_Weapons.md` |
 | Build geo-targeted identity imagery | `Strategic_Insights/Starter_Pack_Framework.md` |
@@ -117,12 +119,13 @@ This is the master framework that organizes ALL content creation around behavior
 ### Strategic Analysis
 | File | Contains | Key Insights |
 |------|----------|--------------|
-| `Strategic_Analysis/BEHAVIORAL_CONTENT_SYSTEM.md` | **Master content creation framework** | 11 behavioral levers, power scores, execution templates, combination playbook |
-| `Strategic_Analysis/Brand_Positioning_Strategic_Review.md` | Brand positioning analysis | Website messaging, emotional depth, strategic review |
-| `Strategic_Analysis/Messaging_Architecture_Analysis.md` | Website messaging breakdown | Content structure, messaging patterns |
-| `Strategic_Analysis/Website_Copy_Audit_2026-02-12.md` | Complete website copy audit | Full content analysis, recommendations |
-| `Strategic_Analysis/Website_Scrape_Raw_2026-02-12.md` | Raw website data | Source material for analysis |
-| `Strategic_Analysis/AI_SEO_Geo_Strategy.md` | **AI SEO / Generative Engine Optimization** | Getting cited by ChatGPT/Perplexity/AI Overviews, $0 traffic for $100-$500 CPC queries |
+| `03_Strategic_Analysis/Behavioral_Content_System.md` | **Master content creation framework** | 11 behavioral levers, power scores, execution templates, combination playbook |
+| `03_Strategic_Analysis/Brand_Positioning_Strategic_Review.md` | Brand positioning analysis | Website messaging, emotional depth, strategic review |
+| `03_Strategic_Analysis/Messaging_Architecture_Analysis.md` | Website messaging breakdown | Content structure, messaging patterns |
+| `03_Strategic_Analysis/AI_SEO_Geo_Strategy.md` | **AI SEO / Generative Engine Optimization** | Getting cited by ChatGPT/Perplexity/AI Overviews, $0 traffic for $100-$500 CPC queries |
+| `03_Strategic_Analysis/Competitive_Separation_Analysis.md` | Category positioning analysis | White space mapping, differentiation vectors |
+| `03_Strategic_Analysis/Lead_Faucet_Exit_Strategy.md` | Internal strategic document | Platform exit analysis |
+| `03_Strategic_Analysis/Brand_Identity_Audit_Framework.md` | Reusable brand audit framework | Structured evaluation criteria for brand identity decisions |
 
 ### Strategic Insights
 | File | Contains | Key Insights |
@@ -170,9 +173,30 @@ This is the master framework that organizes ALL content creation around behavior
 ### Audits And Analysis
 | File | Contains | Key Insights |
 |------|----------|--------------|
-| ~~`Audits_And_Analysis/ClaimEstimateNow_Mobile_Audit_2026-01-29.md`~~ | Archived — former product name audit | See `00_Archive/` |
-| ~~`Audits_And_Analysis/ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md`~~ | Archived — former product name audit (CA) | See `00_Archive/` |
-| `Audits_And_Analysis/Optimal_Question_Flow_2026-01-29.md` | Recommended 6-question flow | Behavioral psychology, micro-copy suggestions |
+| `06_Audits_And_Analysis/Optimal_Question_Flow_2026-01-29.md` | Recommended 6-question flow | Behavioral psychology, micro-copy suggestions |
+| `06_Audits_And_Analysis/Competitor_Reference/Complete_Website_Audit/` | **Lead Faucet website audit** | Competitor reference — cross-check Second Chair strategy against this before finalizing |
+| `06_Audits_And_Analysis/Competitor_Reference/Lead_Faucet_Language_Audit/` | **Lead Faucet language audit** | Competitor reference — 07_Do_Not_Replicate.md is the key file |
+
+### Visual Research — Brand Identity System
+*The complete visual research for Second Chair's 1986–1995 prestige legal aesthetic + modern elevated synthesis.*
+
+| File | Contains | Key Insights |
+|------|----------|--------------|
+| `04_Visual_Research/00_Index.md` | **Master index — start here** | Full research summary, 3 immediate action items, decision filter |
+| `04_Visual_Research/00_Visual_Research_Brief.md` | Strategic research brief | The full strategic rationale, team roles, research framework |
+| `04_Visual_Research/01_Typography/Typography_System.md` | Deep typography research | Century Schoolbook, Caslon, Palatino, Garamond — full system specification |
+| `04_Visual_Research/01_Typography/Typography_Research.md` | Web-sourced primary research | Supreme Court brief standards, HLR typeface correction (Old Style 7) |
+| `04_Visual_Research/02_Color/Color_System_Research.md` | Color system — each color from a physical object | Cream `#F5F0E8`, Burgundy `#6B1A1A`, Gold `#B8962E` — Track 2 candidates |
+| `04_Visual_Research/03_Data_Visualization/Data_Viz_Research.md` | Data viz standard — Tufte/WSJ/McKinsey | "Exhibit [n]:" naming convention, single-accent rule, conclusion-as-title |
+| `04_Visual_Research/04_Law_Publications/Law_Publications_And_Adjacent_Brands.md` | Primary source research | HLR, West Publishing, Goldman Sachs, Economist — confirmed values |
+| `04_Visual_Research/05_Adjacent_Brands/Adjacent_Brands_Research.md` | Finance, consulting, IBM references | Goldman Sachs annual reports, Merrill Lynch, Fortune, IBM under Paul Rand |
+| `04_Visual_Research/06_Film_TV_Production_Design/Production_Design_Research.md` | Film/TV production design | L.A. Law primary; The Firm, Philadelphia — hex approximations from on-screen |
+| `04_Visual_Research/07_Psychographic_Research/Attorney_Psychographic_Research.md` | PI attorney identity research | "I was embarrassed when I became one" — the identity wound documented |
+| `04_Visual_Research/08_Competitive_Visual_Audit/Competitive_Audit.md` | Live competitor site audit | 7 competitors audited — prestige aesthetic completely unclaimed |
+| `04_Visual_Research/09_Distinctive_Asset_Candidates/Distinctive_Asset_Candidates.md` | Byron Sharp's framework applied | 6 ranked assets — Century small caps + cream are highest priority |
+| `04_Visual_Research/10_Modern_Elevated_References/Modern_Elevated_Overview.md` | **The synthesis principle** | Classic-modern synthesis — the "new classic" movement, typeface shortlist |
+| `04_Visual_Research/10_Modern_Elevated_References/Legal_Tech_And_Editorial.md` | Modern brand audits | Bloomberg Law, The Athletic, Mercury, Clio, Rest of World — live research |
+| `04_Visual_Research/10_Modern_Elevated_References/Type_Foundries_And_Design_Movement.md` | Type foundries + design movement | Klim, Frere-Jones, Hoefler&Co., Typewolf trends — the movement documented |
 
 ---
 
